@@ -72,7 +72,7 @@
 	}
 }
 .car-wheel{
-	left: 48%;
+	left: 50%;
 	bottom: 178px;
 	transform: translateX(-50%);
 	position: absolute;
@@ -83,13 +83,13 @@
 	height: 74px;
 }
 .back-wheel{
-	left: -207px;
+	left: -222px;
 	position: absolute;
 	top: 10px;
 	animation: wheel 400ms infinite linear;
 }
 .front-wheel{
-	left: 104px;
+	left: 90px;
 	position: absolute;
 	top: 10px;
 	animation: wheel 400ms infinite linear;
