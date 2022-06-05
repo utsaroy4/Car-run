@@ -72,7 +72,7 @@
 	}
 }
 .car-wheel{
-	left: 50%;
+	left: 49%;
 	bottom: 178px;
 	transform: translateX(-50%);
 	position: absolute;
